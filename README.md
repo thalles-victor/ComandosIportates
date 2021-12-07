@@ -3,10 +3,11 @@
   Estou usando esse arquivo para guardar comandos para criar projetos: 
 </h1>
 
-<h2>
+<ul>
   For React: 
-    yarn add styled-components
-    yarn add @types/styled-components -D
+  
+  <li> yarn add styled-components </li>
+  <li> yarn add @types/styled-components -D </li>
   
   
 </h2>
