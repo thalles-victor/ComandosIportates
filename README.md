@@ -1,10 +1,6 @@
-# ComandosIportates
-<h1 align="center">
-  Estou usando esse arquivo para guardar comandos para criar projetos: 
-</h1>
-
+# Intalação do Styled Components com TypeScirpt
 <ul>
-  For React: 
+  Para React: 
   
   <li> yarn add styled-components </li>
   <li> yarn add @types/styled-components -D </li>
