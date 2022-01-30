@@ -1,4 +1,4 @@
-# Configuração do Styled Components com TypeScirpt Para React e React Native
+# Configuração do Styled Components com TypeScirpt para React e React Native
 
   Para React: 
   ```console
