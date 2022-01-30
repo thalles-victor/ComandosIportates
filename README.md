@@ -1,10 +1,23 @@
 # Intalação do Styled Components com TypeScirpt
-<ul>
+
   Para React: 
+  ```console
+      yarn add styled-components </li>
+   ```
   
-  <li> yarn add styled-components </li>
-  <li> yarn add @types/styled-components -D </li>
+  ```console
+      yarn add @types/styled-components -D </li>
+  ```
   
+  Para o React Native
   
-</h2>
+  ```console
+      yarn add styled-components
+  ```
+  
+  ```console
+    yarn add @types/styled-components-react-native
+  ```
+  
+
 
