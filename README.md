@@ -12,11 +12,11 @@
   Para o React Native
   
   ```console
-      yarn add styled-components
+  yarn add styled-components
   ```
   
   ```console
-    yarn add -D @types/styled-components-react-native
+yarn add -D @types/styled-components-react-native
   ```
   
 
