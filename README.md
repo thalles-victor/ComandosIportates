@@ -2,11 +2,11 @@
 
   Para React: 
   ```console
-      yarn add styled-components
+yarn add styled-components
    ```
   
   ```console
-      yarn add -D @types/styled-components 
+yarn add -D @types/styled-components 
   ```
   
   Para o React Native
